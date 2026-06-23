@@ -3,4 +3,4 @@
 </br></br>
 I'm passionate about transforming technical jargon into user-friendly content that actually makes sense to real humans. My Github-based portfolio showcases a diverse range of projects from API guides to white papers and knowledge bases that bridge the gap between developers, managers, designers, and end users. </br></br>
 With a keen eye for detail and a user-centered approach, I specialize in leading documentation projects, developing techical content with a plain language foundation, and architecting information ecosystems that informs and empowers users to navigate complex systems with confidence. </br></br>
-Take some time to scroll through my work (click any of the folders in the directory above) and see how I blend technical savvy, creativity, and accessible language to create content that your audience actually wants to read!
+Take some time to scroll through my work (hint: <b>click any of the folders in the directory above</b>) and see how I blend technical savvy, creativity, and accessible language to create content that your audience actually wants to read!
